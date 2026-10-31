@@ -8,7 +8,7 @@ I design web and product interfaces around the work a person needs to complete. 
 
 [Profile](https://github.com/RawPowered/RawPowered) · [Detailed walkthrough](docs/WALKTHROUGH.md) · [Evidence & scope](docs/EVIDENCE.md) · [Development plan](docs/ROADMAP.md) · [LinkedIn](https://www.linkedin.com/in/josephedwardscto/)
 
-## Start here — a three-minute review
+## Start here: a three-minute review
 
 | Evidence | What to inspect | Delivery / evidence scope |
 |---|---|---|
@@ -18,7 +18,7 @@ I design web and product interfaces around the work a person needs to complete. 
 
 ## A closer look
 
-![Selected interface; see the linked project for full tour and status](assets/preview.png)
+![Selected interface: see the linked project for full tour and status](assets/preview.png)
 
 Preview from the existing public portfolio; it illustrates an interface, not a new performance result. [Unpack the decisions and operating approach](docs/WALKTHROUGH.md).
 
@@ -39,7 +39,7 @@ Conceptual review path, not a captured execution trace. [Inspect the linked evid
 
 The role emphasizes design quality, clear critique, refinement, and useful reference examples. The reading path starts with finished interfaces and then exposes the reasoning behind them.
 
-Role alignment informed by the [AI Tutor – Design](https://job-boards.greenhouse.io/xai/jobs/5227940007) posting, reviewed October 25, 2026. This is an independent applicant portfolio; no employer affiliation or endorsement is implied.
+Role alignment informed by the [AI Tutor - Design](https://job-boards.greenhouse.io/xai/jobs/5227940007) posting, reviewed October 25, 2026. This is an independent applicant portfolio; no employer affiliation or endorsement is implied.
 
 ## Review with me
 
